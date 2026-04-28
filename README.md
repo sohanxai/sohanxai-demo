@@ -1,4 +1,4 @@
 # sohanxai-demo
 this is my first repository 
 <br/>
-author-sohan akare
+author-sohan codexai
